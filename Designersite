@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">	
+	<link rel="stylesheet" href="Designersite.css">    
+    </head>
+	<body> 
+
+	<h1> Wests custom designs</h1>
+
+ 	<div class="profile">
+    <img src="" alt="profile_picture">
+ 
+
+    <h1>Designer</h1>
+    <section>
+   <div class="nav-moblie">
+   	<a id="nav-toggle" href="#!">span</span></a>
+   </div>
+   <ul class="nav-list">
+   	<li><a href="#!">Home</a></li>
+   	<li><a href="#!">About</a></li>
+   </li>
+   <a href="#!">Services</a>
+   <ul class="nav-dropdown">
+   	<li><a href="#!">web design</a></li>
+   	<li><a href="#!">web development</a></li>
+   	<li><a href="#!">Graphic design</a></li>
+   </ul>
+</li>
+<li><a href="#!">Pricing</a></li>
+<li><a href="#!">Contact</a></li>
+</ul>
+</nav>  
+	
+	</section>
+    </div>
+	<title> | West's custom designs | </title>
+	<p> All of our product is custom made.</p>
+	<br>
+	<h1> Designs Categories </h1>
+	Decals, Custom paint, Custom shirts, Custom interior.
+	<section>			
+	<ul>
+		<a href="shirts">Shirts</a>
+		<br>
+		<a href="hoodies">hoodies</a>
+		<br>
+		<a href="shoes">Shoes</a>
+		<br>
+		<a href="hats">Hats</a>
+		</ul>
+	</section>
+	<br>
+	<br>
+	<br>	
+	<style>
+		ul {
+			margin: 1.5em;
+			padding: 1.5em;
+			background: teal;
+
+		}
+		li {
+			float: left;
+		}
+		li v {
+			color: white;
+			text-align: center;
+			padding: 1.2em;
+		}
+		li v:hover :not(.active){
+			background-color: #111;
+		}
+			.active {
+			background-color: teal;
+		}
+		body {
+			background-color: #faf2e4;
+			margin: 1.8%;			
+		}			
+			@media screen and (orientation: landscape){
+				body {
+				background:  #faf2e4;
+		}
+		}
+		    @media screen and (orientation: portrait){
+				body{
+				background: #57b1dc;
+		}
+		}
+			img { max-width: 100%; }
+			.special {
+			color: blue;
+		} 
+		/* Body Styles */
+			body {
+ 			 position: relative;
+		}
+			@media (min-width: 992px) {
+			body {
+    		padding-left: 14rem;
+ 		} 	
+
+
+				
+		</style>
+		</head>
+		<script>
+		</script>
+		<body style="text-align;"> 
+		 <br>
+		 <p style="font-family:courier;">pictures here</p>
+		 <br>
+ 		 <p style="color: blue;">this is a paragraph</p>
+		 <pre>
+			I don't know yet!
+			I don't know yet!
+			I don't know yet!
+		</pre>
+		<h1>Research</h1>
+		<p>theirs going to be a paragrpah here idk yet!</p>		
+		<h4> West's custom designs </h4>	
+		<video width="320" height="240" controls>
+		<source src="movie.mp4" type="video/mp4">
+		<source src="movie.ogg" type="video/ogg">
+			Your browser does not support the video tag.
+		</video>
+		<h2>Have fun. <em> we take perfect pictures. </em></h2>
+		<img src="trails.jpg" alt="trails">	
+		<form>
+		<input type="button" value="ok">
+		</form>
+		<form action="/action_page.php">
+		<input type="text" name="username">
+		</form>
+		<br>
+		<form action="/action_page.php">
+		<input type="text" placeholder="Your name here">
+		</form>
+		<footer>
+		<p>Copyright &copy; 2022 All Rights Reserved</p>
+		</footer>
+		</body>
+		</html>
